@@ -1,0 +1,8 @@
+[package]
+name = "rsa_projeto"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rsa = { version = "0.9"}
+rand = "0.8"
